@@ -40,4 +40,9 @@
         android:name="com.example.planetario2020.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/planeta01Fragment"
+        android:name="com.example.planetario2020.Planeta01Fragment"
+        android:label="fragment_planeta01"
+        tools:layout="@layout/fragment_planeta01" />
 </navigation>
