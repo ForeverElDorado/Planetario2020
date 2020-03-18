@@ -19,10 +19,14 @@
         <item
             android:id="@+id/planeta01Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta01" />
+            android:title="Tierra" />
         <item
             android:id="@+id/planeta02Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta02" />
+            android:title="Jupiter" />
+        <item
+            android:id="@+id/planeta03Fragment"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Planeta03" />
     </group>
 </menu>

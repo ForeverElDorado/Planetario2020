@@ -50,4 +50,39 @@
         android:name="com.example.planetario2020.planeta02Fragment"
         android:label="fragment_planeta02"
         tools:layout="@layout/fragment_planeta02" />
+    <fragment
+        android:id="@+id/planeta03Fragment"
+        android:name="com.example.planetario2020.planeta03Fragment"
+        android:label="fragment_planeta03"
+        tools:layout="@layout/fragment_planeta03" />
+    <fragment
+        android:id="@+id/planeta04Fragment"
+        android:name="com.example.planetario2020.planeta04Fragment"
+        android:label="fragment_planeta04"
+        tools:layout="@layout/fragment_planeta04" />
+    <fragment
+        android:id="@+id/planeta05Fragment"
+        android:name="com.example.planetario2020.planeta05Fragment"
+        android:label="fragment_planeta05"
+        tools:layout="@layout/fragment_planeta05" />
+    <fragment
+        android:id="@+id/planeta06Fragment"
+        android:name="com.example.planetario2020.planeta06Fragment"
+        android:label="fragment_planeta06"
+        tools:layout="@layout/fragment_planeta06" />
+    <fragment
+        android:id="@+id/planeta07Fragment"
+        android:name="com.example.planetario2020.planeta07Fragment"
+        android:label="fragment_planeta07"
+        tools:layout="@layout/fragment_planeta07" />
+    <fragment
+        android:id="@+id/planeta08Fragment"
+        android:name="com.example.planetario2020.planeta08Fragment"
+        android:label="fragment_planeta08"
+        tools:layout="@layout/fragment_planeta08" />
+    <fragment
+        android:id="@+id/planeta09Fragment"
+        android:name="com.example.planetario2020.planeta09Fragment"
+        android:label="fragment_planeta09"
+        tools:layout="@layout/fragment_planeta09" />
 </navigation>
