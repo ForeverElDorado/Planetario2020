@@ -27,30 +27,30 @@
         <item
             android:id="@+id/planeta03Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta03" />
+            android:title="Marte" />
         <item
             android:id="@+id/planeta04Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta04" />
+            android:title="Mercurio" />
         <item
             android:id="@+id/planeta05Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta05" />
+            android:title="Neptuno" />
         <item
             android:id="@+id/planeta06Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta06" />
+            android:title="Pluton" />
         <item
             android:id="@+id/planeta07Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta07" />
+            android:title="Saturno" />
         <item
             android:id="@+id/planeta08Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta08" />
+            android:title="Urano" />
         <item
             android:id="@+id/planeta09Fragment"
             android:icon="@drawable/ic_menu_slideshow"
-            android:title="Planeta09" />
+            android:title="Venus" />
     </group>
 </menu>
