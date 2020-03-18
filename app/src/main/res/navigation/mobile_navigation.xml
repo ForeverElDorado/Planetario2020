@@ -45,4 +45,9 @@
         android:name="com.example.planetario2020.Planeta01Fragment"
         android:label="fragment_planeta01"
         tools:layout="@layout/fragment_planeta01" />
+    <fragment
+        android:id="@+id/planeta02Fragment"
+        android:name="com.example.planetario2020.planeta02Fragment"
+        android:label="fragment_planeta02"
+        tools:layout="@layout/fragment_planeta02" />
 </navigation>
